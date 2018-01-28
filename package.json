@@ -1,0 +1,19 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "Introduction to Node.js",
+  "main": "csv2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "csv",
+    "json"
+  ],
+  "author": "Toni Paricio",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "1.1.9"
+  }
+}
